@@ -47,3 +47,21 @@ other = "{{ .Count }} palabras"
 
 [pageTitle]
 other = "{{ .Name }} pagina"
+
+[postCategories]
+other = "Categorías"
+one = "Categoría"
+
+[postTags]
+other = "Etiquetas"
+one = "Etiqueta"
+
+[404]
+other = "404: No encontrado "
+one = "404: No encontrado"
+[404Message]
+other = "No se encontró la página que solicitó."
+
+[404Link]
+other = "Volver a la página principal"
+
